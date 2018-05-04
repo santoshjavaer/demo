@@ -1,14 +1,38 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "winningAmount": "$3,329.81",
+    "profilePic": "http://placehold.it/32x32",
+    "score": 735,
+    "name": "Rosalyn Quinn",
+    "contestLevel": "POLARIA",
+    "contestName": "ARTWORLDS",
+    "email": "rosalyn quinn@plasto.me",
+    "msisdn": 913274834937,
+    "address": "874 Withers Street, Bluetown, Palau, 8207",
+    "billingDate": "Sunday, February 11, 2018 10:35 AM"
+  },
+  {
+    "winningAmount": "$2,818.99",
+    "profilePic": "http://placehold.it/32x32",
+    "score": 262,
+    "name": "Paige Morin",
+    "contestLevel": "INDEXIA",
+    "contestName": "MONDICIL",
+    "email": "paige morin@emergent.biz",
+    "msisdn": 913643321723,
+    "address": "740 Sunnyside Avenue, Fowlerville, North Carolina, 5968",
+    "billingDate": "Tuesday, October 14, 2014 10:54 AM"
+  },
+  {
+    "winningAmount": "$3,409.13",
+    "profilePic": "http://placehold.it/32x32",
+    "score": 142,
+    "name": "Natalie Campbell",
+    "contestLevel": "ENERVATE",
+    "contestName": "GENMOM",
+    "email": "natalie campbell@aquacine.us",
+    "msisdn": 915576824087,
+    "address": "382 Louisa Street, Jamestown, Mississippi, 9851",
+    "billingDate": "Tuesday, July 15, 2014 11:13 AM"
   }
-}
+]
